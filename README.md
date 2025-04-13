@@ -32,14 +32,14 @@ Planning Time	From 10 mins → 2 secs
 
 
 
-📸 Sample Output
+## 📸 Sample Output
 ![map](https://github.com/user-attachments/assets/77bdecfa-b569-434a-9861-e4e70aa36fad)
 
 
 
 
 ---
-💡 Use Cases
+##💡 Use Cases
 Food delivery (Swiggy/Zomato)
 
 E-commerce logistics
