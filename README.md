@@ -57,9 +57,4 @@ Medical supply chains
    - Works with actual GPS coordinates (latitude/longitude)
    - Handles 50+ delivery points in seconds
 
-2. **Smart Algorithm**  
-   ```python
-   # Uses Constraint Programming (TSP variant)
-   search_params.first_solution_strategy = (
-       routing_enums_pb2.FirstSolutionStrategy.PATH_CHEAPEST_ARC)
-   ===
+
